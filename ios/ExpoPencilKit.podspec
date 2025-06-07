@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name           = 'ExpoPencilKitUI'
+  s.name           = 'ExpoPencilKit'
   s.version        = '1.0.1'
   s.summary        = 'Expo module for PencilKit integration'
   s.description    = 'A native module that provides PencilKit functionality for React Native apps using Expo'
