@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.tarikfp.expoapplepencilkit"
+  },
+  "ios": {
+    "bundleIdentifier": "com.tarikfp.expoapplepencilkit"
+  }
+}
