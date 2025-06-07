@@ -1,5 +1,5 @@
 {
-  "name": "expo-pencilkit-canvas",
+  "name": "expo-pencilkit-ui",
   "version": "1.0.0",
   "description": "Expo module for Apple PencilKit integration with React Native",
   "main": "build/index.js",
@@ -25,7 +25,7 @@
     "drawing",
     "canvas",
     "ios",
-    "expo-pencilkit-canvas",
+    "expo-pencilkit-ui",
     "expo-pencilkit",
     "apple-pencilkit"
   ],
