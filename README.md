@@ -1,8 +1,21 @@
 # expo-pencilkit-ui ✏️
 
+[![npm version](https://badge.fury.io/js/expo-pencilkit-ui.svg)](https://badge.fury.io/js/expo-pencilkit-ui)
+[![npm downloads](https://img.shields.io/npm/dm/expo-pencilkit-ui.svg)](https://www.npmjs.com/package/expo-pencilkit-ui)
+[![npm license](https://img.shields.io/npm/l/expo-pencilkit-ui.svg)](https://www.npmjs.com/package/expo-pencilkit-ui)
+[![platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://www.npmjs.com/package/expo-pencilkit-ui)
+
+
 A React Native Expo module that provides native Apple PencilKit integration for iOS applications. Enable natural drawing experiences with Apple Pencil support, pressure sensitivity, and advanced drawing tools.
 
 Built with the [Expo Modules API](https://docs.expo.dev/modules/overview/) for optimal performance and developer experience.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/b48ab983-1a39-4b36-95af-0d42f2b23565
+
+
 
 ## Installation
 
