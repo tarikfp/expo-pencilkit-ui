@@ -1,4 +1,4 @@
-# expo-apple-pencilkit ✏️
+# expo-pencilkit-ui ✏️
 
 A React Native Expo module that provides native Apple PencilKit integration for iOS applications. Enable natural drawing experiences with Apple Pencil support, pressure sensitivity, and advanced drawing tools.
 
@@ -7,7 +7,7 @@ Built with the [Expo Modules API](https://docs.expo.dev/modules/overview/) for o
 ## Installation
 
 ```bash
-npx expo install expo-apple-pencilkit
+npx expo install expo-pencilkit-ui
 ```
 
 No additional configuration required for Expo managed workflow.
@@ -17,10 +17,7 @@ No additional configuration required for Expo managed workflow.
 ```tsx
 import React, { useRef, useEffect } from "react";
 import { View, StyleSheet } from "react-native";
-import {
-  PencilKitView,
-  PencilKitViewRef,
-} from "expo-apple-pencilkit";
+import { PencilKitView, PencilKitViewRef } from "expo-pencilkit-ui";
 
 export default function App() {
   const pencilKitRef = useRef<PencilKitViewRef>(null);
@@ -72,10 +69,7 @@ const styles = StyleSheet.create({
 ```tsx
 import React, { useRef, useState, useEffect } from "react";
 import { View, Button, Alert, StyleSheet } from "react-native";
-import {
-  PencilKitView,
-  PencilKitViewRef,
-} from "expo-apple-pencilkit";
+import { PencilKitView, PencilKitViewRef } from "expo-pencilkit-ui";
 import * as ImagePicker from "expo-image-picker";
 
 export default function AdvancedPencilKit() {

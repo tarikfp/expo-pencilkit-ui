@@ -31,14 +31,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tarikfp/expo-apple-pencilkit.git"
+    "url": "https://github.com/tarikfp/expo-pencilkit-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/tarikfp/expo-apple-pencilkit/issues"
+    "url": "https://github.com/tarikfp/expo-pencilkit-ui/issues"
   },
   "author": "Tarik Pinarci <tarikdotcom@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/tarikfp/expo-apple-pencilkit#readme",
+  "homepage": "https://github.com/tarikfp/expo-pencilkit-ui#readme",
   "jest": {
     "preset": "expo-module-scripts"
   },
