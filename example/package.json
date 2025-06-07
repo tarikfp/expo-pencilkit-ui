@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "expo": "~53.0.10",
-    "expo-pencilkit-ui": "^1.0.1",
     "expo-image-picker": "~16.1.4",
     "expo-media-library": "~17.1.7",
+    "expo-pencilkit-ui": "^1.0.2",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.3"
