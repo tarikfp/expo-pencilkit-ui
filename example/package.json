@@ -1,5 +1,5 @@
 {
-  "name": "example-pencilkit",
+  "name": "expo-pencilkit-ui-example",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "expo": "~53.0.10",
-    "expo-apple-pencilkit": "file:../expo-apple-pencilkit-1.0.0.tgz",
+    "expo-pencilkit-ui": "^1.0.1",
     "expo-image-picker": "~16.1.4",
     "expo-media-library": "~17.1.7",
     "expo-status-bar": "~2.2.3",

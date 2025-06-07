@@ -2,6 +2,7 @@ import {
   FontAwesome5,
   MaterialCommunityIcons,
 } from "@expo/vector-icons";
+import * as ImagePicker from "expo-image-picker";
 import {
   CanRedoChangedEvent,
   CanUndoChangedEvent,
@@ -11,8 +12,7 @@ import {
   NativeEvent,
   PencilKitView,
   PencilKitViewRef,
-} from "expo-apple-pencilkit";
-import * as ImagePicker from "expo-image-picker";
+} from "expo-pencilkit-ui";
 import React, { useEffect, useRef, useState } from "react";
 import {
   Alert,

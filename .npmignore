@@ -16,7 +16,8 @@ __rsc_tests__
 
 # Project specific
 /example/
-/expo-apple-pencilkit-example/
+/example/ios/
+/example/android/
 /node_modules/
 /src/
 *.log

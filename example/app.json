@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "example-pencilkit",
-    "slug": "example-pencilkit",
+    "name": "expo-pencilkit-ui-example",
+    "slug": "expo-pencilkit-ui-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tarikfp.examplepencilkit",
+      "bundleIdentifier": "com.tarikfp.expopencilkitui",
       "appleTeamId": "3Y595Z949W"
     },
     "android": {
@@ -23,7 +23,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.tarikfp.examplepencilkit"
+      "package": "com.tarikfp.expopencilkitui"
     },
     "web": {
       "favicon": "./assets/favicon.png"

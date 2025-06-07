@@ -1,8 +1,8 @@
 {
   "android": {
-    "package": "com.tarikfp.expoapplepencilkit"
+    "package": "com.tarikfp.expopencilkitui"
   },
   "ios": {
-    "bundleIdentifier": "com.tarikfp.expoapplepencilkit"
+    "bundleIdentifier": "com.tarikfp.expopencilkitui"
   }
 }
